@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Radosław</h1>
 
-- 🌱 I’m currently learning **Frameworks(React) and Git**
+- 🌱 I’m currently learning **Frameworks(React) and C#**
 - 📫 How to reach me **radek.draguc@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
